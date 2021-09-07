@@ -12,7 +12,8 @@
     "noLib": false,
     "declaration": true,
     "isolatedModules": true,
-    "lib": ["dom", "es6", "es5", "dom.iterable", "scripthost"]
+    "lib": ["dom", "es6", "es5", "dom.iterable", "scripthost"],
+    "types": ["node"]
   },
   "exclude": ["node_modules"]
 }
